@@ -1,4 +1,4 @@
-[12:09 AM, 5/17/2020] Milly: def my_hash 
+def my_hash 
     my_hash = {"name" => "cat", "number" => "1", "age" => "1"}
   
 end
